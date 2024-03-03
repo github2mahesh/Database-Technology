@@ -1,6 +1,6 @@
 # Database Technology
 
-**Welcome!** This repository contains my lab assignments from the **Database Technology** course.
+**Welcome!** This repository contains my lab assignments from the **Database Technology** course. All the labs have been done in collaboration with my classmate Sachini Bambaranda.
 
 **What will you find here?**
 
